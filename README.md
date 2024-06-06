@@ -1,7 +1,7 @@
 
 # Customer Cohort Analysis Using Excel - Step-by-Step Guide
 ## Introduction
-In this guide, I'll walk you through the process of creating a customer cohort chart using an Excel sheet downloaded from KPMG. We'll clean up the data, generate the necessary columns, and create a pivot table to visualize the cohorts. Additionally, we'll calculate the retention ratio for each cohort over different months.
+In this guide, I'll walk you through the process of creating a customer cohort chart using an Excel sheet downloaded KPMG open source database for trainees. We'll clean up the data, generate the necessary columns, and create a pivot table to visualize the cohorts. Additionally, we'll calculate the retention ratio for each cohort over different months.
 
 The Client Cohort Chart is a powerful tool for business that work on suscriptions but business who work on punctual transactions.
 
